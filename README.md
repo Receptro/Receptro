@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Receptro
 - 👀 I’m interested in cyber security/ web development and game development
-- 🌱 I’m currently learning python, html and C++
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me Discord: RECEPTRO#9484
 
